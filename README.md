@@ -1,4 +1,5 @@
 <h1 align="center">Dimenzió Script</h1>
+[![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)]()
 <h3 align="center">
     Lehetővé teszi a játékosok áthelyezését más dimenzióba.
 </h3>
