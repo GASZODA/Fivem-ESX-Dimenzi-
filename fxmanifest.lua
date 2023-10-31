@@ -1,8 +1,7 @@
-game 'gta5'
-
 author 'GASZODA'
 description 'Dimenzió ESX Version'
 version 'v1.0.0'
+game 'gta5'
 
 shared_scripts {
     '@es_extended/locale.lua',
