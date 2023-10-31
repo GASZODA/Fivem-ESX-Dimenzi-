@@ -1,8 +1,6 @@
 <h1 align="center">Dimenzió Script</h1>
 
-<h3 align="center">
-    Lehetővé teszi a játékosok áthelyezését más dimenzióba.
-</h3>
+## Lehetővé teszi a játékosok áthelyezését más dimenzióba.
 
 ## Telepítés/Install:
 1. Script feltöltése resources mappába.
