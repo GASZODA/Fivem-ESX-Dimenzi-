@@ -7,5 +7,5 @@
 2. Script nevének hozzáadása a server.cfg résznél.
 3. Script elindítása F8 vagy CFX felületen.
 
- 
+[![Discord](https://discordapp.com/api/guilds/554308170387030036/embed.png)](554308170387030036)
 [![Version](https://img.shields.io/badge/Version-1.0-brightgreen.svg)]()
